@@ -27,6 +27,22 @@
 	<!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+    
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+                           jax: ["input/TeX", "output/HTML-CSS"],
+                           tex2jax: {
+                           inlineMath: [ ['$', '$'] ],
+                           displayMath: [ ['$$', '$$']],
+                           processEscapes: true,
+                           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+                           },
+                           messageStyle: "none",
+                           "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+                           });
+        </script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
 </head>
 
@@ -87,7 +103,6 @@
 
 <!-- more -->
 
-
 <p>现在终于似乎都搞好了。。所以这么看来我的第一篇技术博客也会是怎么安装了吧！其实写作的主要目的主要是为了给自己备个份，以后再做好有法可依。</p>
 
 <p>安装我建议大家使用 <a href="https://github.com/rbenv/rbenv-installer">rbenv install</a></p>
@@ -98,7 +113,7 @@
 
 <p>以及我需要美化一下我的博客，这里有一个<a href="http://foggry.com/blog/2014/04/28/custom-your-octopress-blog/">参考</a></p>
 
-<p>未完待续&hellip;</p>
+<p>未完待续…</p>
 </div>
 
 </article>
