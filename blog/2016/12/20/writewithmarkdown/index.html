@@ -7,8 +7,7 @@
 	<meta name="author" content="Chaozhe R. He">
 
 	
-	<meta name="description" content="用Markdown来语言来写文章 首先要先去到你博客所在的那个本地文件夹 添加新的文章请用
-&gt; rake new_post[‘WriteWithMarkdown’] Markdown 语言的好处是方便添加Latex 公式 然而还是需要经过一系列设置。 比如我认为最漂亮的公式 欧拉公式 $e &hellip;">
+	<meta name="description" content="用Markdown来语言来写文章 首先要先去到你博客所在的那个本地文件夹 添加新的文章请用 rake new_post[‘WriteWithMarkdown’] Markdown 语言的好处是方便添加Latex 公式 然而还是需要经过一系列设置， &hellip;">
 	
 
   <!-- http://t.co/dKP3o1e -->
@@ -28,21 +27,36 @@
 <link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
     
-    <!-- mathjax config similar to math.stackexchange -->
+    <!-- MathJax -->
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
-                           jax: ["input/TeX", "output/HTML-CSS"],
                            tex2jax: {
-                           inlineMath: [ ['$', '$'] ],
-                           displayMath: [ ['$$', '$$']],
-                           processEscapes: true,
-                           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-                           },
-                           messageStyle: "none",
-                           "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+                           inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                           processEscapes: true
+                           }
                            });
         </script>
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+                           tex2jax: {
+                           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+                           }
+                           });
+        </script>
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Queue(function() {
+                          var all = MathJax.Hub.getAllJax(), i;
+                          for(i=0; i < all.length; i += 1) {
+                          all[i].SourceElement().parentNode.className += ' has-jax';
+                          }
+                          });
+        </script>
+    
+    <script type="text/javascript"
+        src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
 
 </head>
 
@@ -100,13 +114,18 @@
 	<h1 class="title" itemprop="name">用Markdown来语言来写文章</h1>
 	<div class="entry-content" itemprop="articleBody"><p>首先要先去到你博客所在的那个本地文件夹</p>
 
-<p>添加新的文章请用
-&gt; rake new_post[‘WriteWithMarkdown’]
-<!-- more --></p>
+<p>添加新的文章请用</p>
+
+<blockquote>
+  <p>rake new_post[‘WriteWithMarkdown’]</p>
+</blockquote>
+
+<!-- more -->
 
 <p>Markdown 语言的好处是方便添加Latex 公式</p>
 
-<p>然而还是需要经过一系列<a href="https://bobbielf2.github.io/blog/2016/08/06/shu-xue-blog/">设置</a>。</p>
+<p>然而还是需要经过一系列<a href="https://bobbielf2.github.io/blog/2016/08/06/shu-xue-blog/">设置</a>，
+并且不同的人还给出了稍微不太一样的方法比如<a href="http://blog.zhengdong.me/2012/12/19/latex-math-in-octopress/">这里</a><a href="http://www.idryman.org/blog/2012/03/10/writing-math-equations-on-octopress/">还有这里</a>。</p>
 
 <p>比如我认为最漂亮的公式 欧拉公式 $e^{i\pi}+1=0$。 他包含了自然界最重要的五个常数 $e,i,\pi,1,0$。</p>
 
@@ -169,3 +188,19 @@ Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Sha
 	</div>
 </body>
 </html>
+
+<!-- mathjax config similar to math.stackexchange -->
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+                       jax: ["input/TeX", "output/HTML-CSS"],
+                       tex2jax: {
+                       inlineMath: [ ['$', '$'] ],
+                       displayMath: [ ['$$', '$$']],
+                       processEscapes: true,
+                       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+                       },
+                       messageStyle: "none",
+                       "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+                       });
+    </script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
