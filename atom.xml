@@ -4,7 +4,7 @@
   <title><![CDATA[Chaozhe’s Blog]]></title>
   <link href="http://hchaozhe.github.io/atom.xml" rel="self"/>
   <link href="http://hchaozhe.github.io/"/>
-  <updated>2016-12-19T01:13:39-05:00</updated>
+  <updated>2016-12-20T00:18:11-05:00</updated>
   <id>http://hchaozhe.github.io/</id>
   <author>
     <name><![CDATA[Chaozhe R. He]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[用Markdown来语言来写文章]]></title>
+    <link href="http://hchaozhe.github.io/blog/2016/12/20/writewithmarkdown/"/>
+    <updated>2016-12-20T00:11:23-05:00</updated>
+    <id>http://hchaozhe.github.io/blog/2016/12/20/writewithmarkdown</id>
+    <content type="html"><![CDATA[<p>首先要先去到你博客所在的那个本地文件夹</p>
+
+<p>添加新的文章请用</p>
+
+<blockquote><p>rake new_post[&lsquo;WriteWithMarkdown&rsquo;]</p></blockquote>
+
+<p>Markdown 语言的好处是方便添加Latex 公式</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[所以我也还是需要写一个怎么创建博客的文章。。]]></title>
