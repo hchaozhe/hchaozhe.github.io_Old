@@ -5,7 +5,8 @@ date: 2017-01-07 23:49:20 -0500
 comments: true
 categories: 
 ---
-
+图：[owlcee](https://github.com/owlcee) ;
+文：[hchaozhe](https://github.com/hchaozhe)
 
 ### 摘要
 我们策划的旅行是十二月底的八天七夜游。途径Anchorage，Fairbanks，Prudhoe Bay, 和Barrow。感受了阿拉斯加的冰川、狗拉雪橇、温泉、星空、极光、寒冷的大风、北冰洋。初步了解了阿拉斯加的人文地理、自然资源、文化风俗等。收获非凡，愿与朋友分享，特记此文。
@@ -149,11 +150,9 @@ Barrow:
 
 UAA 校园
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg){:.some-css-class width="500"}
-
 ### State of Alaska, the last frontier <a name="Alaska"></a>
 
-阿拉斯加是美国最大的州，大于美国面积第二到四位的Texas, California, Montana三个州加起来还大。而因为我们通常见的地图的比例问题，它看起来比这还要大一些。 而真实的比例应该是这样 [源](https://en.wikipedia.org/wiki/File:Alaska_area_compared_to_conterminous_US.svg)
+阿拉斯加是美国最大的州，大于美国面积第二到四位的Texas, California, Montana三个州加起来还大。而因为我们通常见的地图的比例问题，它看起来比这还要大一些。 而真实的比例应该是这样 [（源）](https://en.wikipedia.org/wiki/File:Alaska_area_compared_to_conterminous_US.svg)。
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/59/Alaska_area_compared_to_conterminous_US.svg){:.some-css-class width="500"}
 
@@ -167,7 +166,11 @@ UAA 校园
 在这美帝北境的短短一周，我们当然无法踏遍整个州，但是具有代表性的几个城市，已经让我们见识到了壮丽自然景观，奇特的生态环境，以及更重要的，了解了阿拉斯加的独特人文风情与历史文化。
 
 
-### Anchorage <a name="Anchorage"></a>
+### Anchorage:被低估的“大都市”。 <a name="Anchorage"></a>
+
+Anchorage 因为其30万的人口而成为了Alaska最大的城市，也因此很容易被当成是州府（其实州府是 Juneau 在Alaska西南）。
+
+oversize vegatables
 
 冰川的一些有趣知识：
 
@@ -215,3 +218,53 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 我们离开Barrow同机的有Barrow当地的高中男女篮球队，他们似乎是去比赛。他们俨然是当地的明星，有孩子来找他们合影，给他们加油打气。
 在飞机上看到了日出，没有能看到正面，但也足够赞了。这属于意外收获。
+
+
+##### Anchorage
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_tree.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_view.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Port.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_downtown.jpg){:.some-css-class width="500"}
+
+###### Captain Cook 纪念碑
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Captain_cook.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg){:.some-css-class width="500"}
+
+
+##### Matanuska Glacier @ Glacier view near Anchorage 
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier_view.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier1.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier2.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier3.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier4.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier5.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/new_Glacier.jpg){:.some-css-class width="500"}
+
+##### Fairbanks
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_sledding.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Kennel.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/musher.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_team.jpg){:.some-css-class width="500"}
+
+##### Ice museum @ Chena Hot Spring
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Ice_carving.jpg){:.some-css-class width="500"}
