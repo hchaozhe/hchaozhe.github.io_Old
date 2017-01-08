@@ -18,9 +18,10 @@ categories:
 
 二、[游记](#Travelblog)
 
-1. [Anchorage](#Anchorage)
-2. [Fairbanks](#Fairbanks)
-3. [Barrow (Utqiaġvik)](#Barrow)
+1. [State of Alaska, the last frontier](#Alaska)
+2. [Anchorage](#Anchorage)
+3. [Fairbanks](#Fairbanks)
+4. [Barrow (Utqiaġvik)](#Barrow)
 
 
 ### 一、旅行策划与前期准备 <a name="Roadbook"></a>
@@ -148,11 +149,25 @@ Barrow:
 
 UAA 校园
 
-![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg)
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg){:.some-css-class width="500"}
+
+### State of Alaska, the last frontier <a name="Alaska"></a>
+
+阿拉斯加是美国最大的州，大于美国面积第二到四位的Texas, California, Montana三个州加起来还大。而因为我们通常见的地图的比例问题，它看起来比这还要大一些。 而真实的比例应该是这样 [源](https://en.wikipedia.org/wiki/File:Alaska_area_compared_to_conterminous_US.svg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/59/Alaska_area_compared_to_conterminous_US.svg){:.some-css-class width="500"}
+
+经历了无人居住，因纽特人居住，俄国人控制，美国领地之后，终于于1959年加入联邦，成为美国的49个州。在成为州之前，这里是是美领地，就像今天的波多黎各一样。阿拉斯加的人口总共不到80万，也就是比现在的底特律人口稍微多一点，比国内的三四线城市都差远了。没办法，谁让这里纬度如此之高，气候如此恶劣呢！
+
+
+但是因纽特人经今天的白令海峡迁徙到这里，面对这恶略的气候，坚强的生活下来。
+
+在罗斯福新政时期，联邦政府资助美国Midwest的农民来如今Anchorage以西北的土地上开垦，以尝试进行农业生产。他们中的很多人失败了，留下来的就一直居住在这里，以他们为中心渐渐形成了Anchorage 周边的小的村落。
+
+在这美帝北境的短短一周，我们当然无法踏遍整个州，但是具有代表性的几个城市，已经让我们见识到了壮丽自然景观，奇特的生态环境，以及更重要的，了解了阿拉斯加的独特人文风情与历史文化。
 
 
 ### Anchorage <a name="Anchorage"></a>
-去的路上看到山顶有曾经的导弹基地，如今已经撤离。不再战斗值班。
 
 冰川的一些有趣知识：
 
@@ -162,9 +177,9 @@ UAA 校园
 - 确实能看到被冰川侵蚀研磨的岩石粉。
 - 两万多年前冰川是一直延伸到Anchorage的，现在退回到了现在的位置。
 - 冰川凸起的地方是互相撞击顶起来的。
+- 
+去的路上看到山顶有曾经的导弹基地，如今已经撤离。不再战斗值班。
 
-阿拉斯加1963年加入联邦，成为第49个州，之前是美领地，就像今天的波多黎各一样。
-在罗斯福新政时期，联邦政府资助中西部的农民来Anchorage以北这里开垦，进行农业生产，他们中的很多人失败了，留下来的就以他们为中心形成了现在的小的村落。
 
 ### Fairbanks <a name="Fairbanks"></a>
 狗拉雪橇，是一位即将参加 明年狗拉雪橇比赛的小伙子，瑞士人 Savy 带着我们玩的。期间聊天，观察，录像，涨了很多知识，知道了哈士奇作为雪橇犬的神奇，以及训练的不易。
