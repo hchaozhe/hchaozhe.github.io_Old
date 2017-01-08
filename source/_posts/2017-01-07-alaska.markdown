@@ -24,8 +24,9 @@ categories:
 3. [Fairbanks](#Fairbanks)
 4. [Barrow (Utqiaġvik)](#Barrow)
 
+<a name="Roadbook"></a>
 
-### 一、旅行策划与前期准备 <a name="Roadbook"></a>
+### 一、旅行策划与前期准备 
 
 
 #### 开销
@@ -141,11 +142,13 @@ Barrow:
 
 <a href="#top">Back to top</a>
 
-### 二、旅行游记 <a name="Travelblog"></a>
+<a name="Travelblog"></a>
+### 二、旅行游记 
 
 <a href="#top">Back to top</a>
 
-### State of Alaska, the last frontier <a name="Alaska"></a>
+<a name="Alaska"></a>
+### State of Alaska, the last frontier 
 
 阿拉斯加是美国最大的州，大于美国面积第二到四位的Texas, California, Montana三个州加起来还大。而因为我们通常见的地图的比例问题，它看起来比这还要大一些。 而真实的比例应该是这样 [（源）](https://en.wikipedia.org/wiki/File:Alaska_area_compared_to_conterminous_US.svg)。
 
@@ -162,7 +165,9 @@ Barrow:
 
 <a href="#top">Back to top</a>
 
-### Anchorage:被低估的“大都市”。 <a name="Anchorage"></a>
+<a name="Anchorage"></a>
+
+### Anchorage:被低估的“大都市”。 
 
 Anchorage 因为其30万的人口而成为了Alaska最大的城市，也因此很容易被当成是州府（其实州府是 Juneau 在Alaska西南）。
 
@@ -182,7 +187,9 @@ oversize vegatables
 
 <a href="#top">Back to top</a>
 
-### Fairbanks：小巧而精致的明珠 <a name="Fairbanks"></a>
+<a name="Fairbanks"></a>
+
+### Fairbanks：小巧而精致的明珠 
 
 狗拉雪橇，是一位即将参加 明年狗拉雪橇比赛的小伙子，瑞士人 Savy 带着我们玩的。期间聊天，观察，录像，涨了很多知识，知道了哈士奇作为雪橇犬的事情，以及训练的不易。
 
@@ -209,7 +216,8 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 <a href="#top">Back to top</a>
 
-### Barrow (Utqiaġvik) <a name="Barrows"></a>
+<a name="Barrow"></a>
+### Barrow (Utqiaġvik) 
 今天的Barrow一日行真的很赞呢！
 我们走到了city 的大部分景点，访问了博物院，图书馆，最大的超市，最好的饭馆，最北标示，以及开车兜了兜大部分城市。
 图书馆异常的温暖和好。
@@ -224,7 +232,7 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 ### 更多照片
 
-##### Anchorage
+#### Anchorage
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_tree.jpg){:.some-css-class width="500"}
 
@@ -234,14 +242,14 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Anchorage_downtown.jpg){:.some-css-class width="500"}
 
-###### Captain Cook 纪念碑
+#### Captain Cook 纪念碑
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Captain_cook.jpg){:.some-css-class width="500"}
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/UAA.jpg){:.some-css-class width="500"}
 
 
-##### Matanuska Glacier @ Glacier view near Anchorage 
+#### Matanuska Glacier @ Glacier view near Anchorage 
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Glacier_view.jpg){:.some-css-class width="500"}
 
@@ -259,7 +267,16 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/new_Glacier.jpg){:.some-css-class width="500"}
 
-##### Fairbanks
+
+#### Train Anchorage -> Fairbanks
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train1.jpg)
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train2.jpg)
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Train3.jpg)
+
+#### Dog Sledding @ Fairbanks
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_sledding.jpg){:.some-css-class width="500"}
 
@@ -269,6 +286,39 @@ UAF的学生可能要承受严寒，短暂的温暖，超长的夏日阳光。�
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Dog_team.jpg){:.some-css-class width="500"}
 
-##### Ice museum @ Chena Hot Spring
+#### Northen Light
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL1.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL2.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL3.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL4.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/NL5.jpg){:.some-css-class width="500"}
+
+#### Ice museum @ Chena Hot Spring
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Ice_carving.jpg){:.some-css-class width="500"}
+
+
+#### Prudhoe Bay
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/Prudhoebay.jpg){:.some-css-class width="500"}
+
+#### Barrow
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowAirport.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowBoat.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowWhaleBone.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowHospital.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowRoadMile.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowRoadSign.jpg){:.some-css-class width="500"}
+
+![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/BarrowChaozhe.jpg){:.some-css-class width="500"}
