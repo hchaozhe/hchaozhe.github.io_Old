@@ -20,6 +20,9 @@ categories:
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
+1.[Itinerary](#Itinerary)
+2.[Gear List](#gearlist)
+
 二、[游记](#Travelblog)
 
 1. [State of Alaska, the last frontier](#Alaska)
@@ -38,6 +41,8 @@ categories:
 八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。
 
 #### 计划（Itinerary）
+
+<a name="Itineraray"></a>
 
 注：为了照顾我们的国际友人，这一部分用英文。
 
@@ -108,6 +113,8 @@ Day 9 Fairbanks back to Detroit
 - There are also available tours near Anchorage ([Salmon and Berry](https://www.salmonberrytours.com/) is the one we choose, and certainly there are a lot of other agents). For example, dog sledding is also available, but it is usually far from the city as they need to have enough snow. Thus, you will spend more time on driving round trip.  
 - There are pacakges for few day trips in one city (e.g. [Fairbanks](http://alaskatours.com/alaska-vacations/fairbanks-northern-lights-vacation/)), even customized trip service available. 
 
+
+<a name="gearlist"></a>
 #### Gear List (beyond a typical one)
 
 - Camera (DSLR,GoPro,etcs), batteries, wrap (keep warm when you are taking photos. **Extremely useful** within arctic circle. We only found in China [Taobao](https://www.taobao.com/product/%E7%9B%B8%E6%A9%9F%E4%BF%9D%E6%9A%96%E5%A5%97.htm))
@@ -123,8 +130,8 @@ Day 9 Fairbanks back to Detroit
 - High Socks. We bought some pairs from [REI](https://www.rei.com/rei-garage/product/894750/smartwool-phd-ski-medium-pattern-socks), but many thick ski socks would work. We figured out, in a painful way in some sense, that socks are equally important for long comfortable walking as the shoes. 
 - Thermo bottle. To keep you hydrated in cold weather.
 - Helmet. We wear helmet in glacier walk and dog sledding. It is not necessary, but we just want to feel safe.
-- Snow goggle. Useful in cold wether with strong wind.
-- Mask. Useful in cold wether with strong wind.
+- Snow goggle. Useful in cold weather with strong wind.
+- Mask. Useful in cold weather with strong wind.
 - First aid kit.
 - Hand warmer, toe warmer. These are provided freely during the glacier walk by travel agent and it is really warm. This is not necessary if you have enough clothes. 
 - Moisture and lip balm. I don't like these in general, but they turn out to be very useful...
