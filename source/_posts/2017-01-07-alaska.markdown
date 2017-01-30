@@ -20,8 +20,8 @@ categories:
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
-1. [Itinerary](#itineraray)
-2. [Gear List](#gearlist)
+1.[Itinerary](#itineraray)
+2.[Gear List](#gearlist)
 
 二、[游记](#Travelblog)
 
@@ -115,7 +115,6 @@ Day 9 Fairbanks back to Detroit
 
 
 <a name="gearlist"></a>
-
 #### Gear List (beyond a typical one)
 
 - Camera (DSLR,GoPro,etcs), batteries, wrap (keep warm when you are taking photos. **Extremely useful** within arctic circle. We only found in China [Taobao](https://www.taobao.com/product/%E7%9B%B8%E6%A9%9F%E4%BF%9D%E6%9A%96%E5%A5%97.htm))
@@ -318,7 +317,7 @@ Kevin还告诉我们，市中心有一个圈养的reindeer （驯鹿），恰逢
 除了每节车厢头部两排对着放置的座位中间有桌子，其他的座位都没有小桌板，但是足够宽敞的排间空间。
 最重要的是，所有的作为都与前进方向一致，便于观景。
 
-两节车厢之间的连接处是上下客的车门，当列车开动的时候，因为列车的车速并不快，上部的窗户可以完全向内开启，非常便于拍照。然而毕竟零下20度的气温加上大风，要想长时间拍照，就需要正确的装备。很多人都想拍照，但是我们用这些（风镜，面罩，相机保暖罩）或多了更多拍照的自由。
+两节车厢之间的连接处是上下客的车门，当列车开动的时候，因为列车的车速并不快，上部的窗户可以完全向内开启，非常便于拍照。然而毕竟零下20度的气温加上大风，要想长时间拍照，就需要正确的装备。很多人都想拍照，但是我们用这些（风镜，面罩，相机保暖罩）获得了更多拍照的自由。
 
 ![](http://www-personal.umich.edu/~hchaozhe/images/Alaska/PhotoOnTrain.jpg)
 
