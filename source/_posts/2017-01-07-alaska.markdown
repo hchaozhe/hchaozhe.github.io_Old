@@ -20,8 +20,8 @@ categories:
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
-1.[Itinerary](#itineraray)
-2.[Gear List](#gearlist)
+1. [Itinerary](#itineraray)
+2. [Gear List](#gearlist)
 
 二、[游记](#Travelblog)
 
