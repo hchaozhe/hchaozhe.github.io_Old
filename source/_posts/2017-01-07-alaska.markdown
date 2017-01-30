@@ -20,7 +20,7 @@ categories:
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
-1.[Itinerary](#Itinerary)
+1.[Itinerary](#itineraray)
 2.[Gear List](#gearlist)
 
 二、[游记](#Travelblog)
@@ -40,9 +40,9 @@ categories:
 #### 开销
 八天下来人均消费约为USD2500。基本都花在了吃、住、门票以及游玩的必须项目上，没有买贵重的纪念品，只有明信片冰箱贴等。加上前期装备物资准备USD500。并不算穷游，但是也是自己按照需求精打细算过，对开销和收获心满意足，并没有感觉贵。
 
-#### 计划（Itinerary）
+<a name="itineraray"></a>
 
-<a name="Itineraray"></a>
+#### 计划（Itinerary）
 
 注：为了照顾我们的国际友人，这一部分用英文。
 
