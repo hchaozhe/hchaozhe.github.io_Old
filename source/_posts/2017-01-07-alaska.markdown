@@ -20,8 +20,8 @@ categories:
 
 一、[旅行策划与前期准备（Travel Plan）](#Roadbook)
 
-1.[Itinerary](#itineraray)
-2.[Gear List](#gearlist)
+1. [Itinerary](#itineraray)
+2. [Gear List](#gearlist)
 
 二、[游记](#Travelblog)
 
@@ -115,6 +115,7 @@ Day 9 Fairbanks back to Detroit
 
 
 <a name="gearlist"></a>
+
 #### Gear List (beyond a typical one)
 
 - Camera (DSLR,GoPro,etcs), batteries, wrap (keep warm when you are taking photos. **Extremely useful** within arctic circle. We only found in China [Taobao](https://www.taobao.com/product/%E7%9B%B8%E6%A9%9F%E4%BF%9D%E6%9A%96%E5%A5%97.htm))
