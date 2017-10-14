@@ -4,7 +4,7 @@
   <title><![CDATA[Chaozhe’s Blog]]></title>
   <link href="http://hchaozhe.github.io/atom.xml" rel="self"/>
   <link href="http://hchaozhe.github.io/"/>
-  <updated>2017-01-31T16:25:33-05:00</updated>
+  <updated>2017-10-13T23:39:44-04:00</updated>
   <id>http://hchaozhe.github.io/</id>
   <author>
     <name><![CDATA[Chaozhe R. He]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Football]]></title>
+    <link href="http://hchaozhe.github.io/blog/2017/10/13/football/"/>
+    <updated>2017-10-13T23:37:31-04:00</updated>
+    <id>http://hchaozhe.github.io/blog/2017/10/13/football</id>
+    <content type="html"><![CDATA[<h1 id="section">从橄榄球看美国</h1>
+<p><a href="https://github.com/hchaozhe">hchaozhe</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[阿拉斯加之旅]]></title>
